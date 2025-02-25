@@ -7,3 +7,4 @@
 4 - Repositório Público 💹<br>
 5- Fork Realizado com sucesso 💹<br>
 6- Repositório Clonado 💹<br>
+7- fazendo merge 💹<br>
