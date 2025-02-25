@@ -3,5 +3,6 @@
 
 1 - Repositório Criado 💹 <br>
 2 - Readme Adcionado 💹<br>
-2 - Github.dev sendo utilizado 💹<br>
-2 - Repositório Público 💹<br>
+3 - Github.dev sendo utilizado 💹<br>
+4 - Repositório Público 💹<br>
+5- Fork Realizado com sucesso 💹<br>
