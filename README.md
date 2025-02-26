@@ -7,4 +7,8 @@
 4 - Repositório Público 💹<br>
 5- Fork Realizado com sucesso 💹<br>
 6- Repositório Clonado 💹<br>
+<<<<<<< HEAD
 7- Criei nova branch e realizei alterações 💹<br>
+=======
+7- fazendo merge 💹<br>
+>>>>>>> versao01
